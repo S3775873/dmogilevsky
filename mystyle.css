@@ -1,4 +1,20 @@
-.center {
+.PageTitle {
   text-align: center;
   color: red;
 }
+
+.TopicTitle {
+  text-align: center;
+  color: black;
+}
+
+.Content {
+  text-align: left;
+  color: black;
+ }
+
+.Body {
+  text-align: left;
+  background-color: lightblue;
+ }
+
