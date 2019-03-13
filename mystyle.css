@@ -3,6 +3,10 @@
   color: red;
 }
 
+.p {
+   line-height: 50%;
+}
+
 .MenuItems {
   text-align: center;
 }
